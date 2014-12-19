@@ -4,6 +4,7 @@
 	"description": "__MSG_desc__",
 	"version": "1.0.0",
 	"homepage_url": "https://github.com/pepelsbey/add-to-things",
+	"default_locale": "en",
 	"permissions": [
 		"tabs"
 	],
