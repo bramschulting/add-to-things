@@ -13,8 +13,8 @@ module.exports = function(grunt) {
 					mode: 'zip'
 				},
 				src: [
-					'_locales/*',
-					'images/*',
+					'_locales/**',
+					'images/**',
 					'background.js',
 					'manifest.json'
 				]
