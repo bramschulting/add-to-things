@@ -1,0 +1,27 @@
+{
+	"manifest_version": 2,
+	"name": "Add to Things",
+	"description": "Add any page to Things task manager",
+	"version": "1.0.0",
+	"homepage_url": "https://github.com/pepelsbey/add-to-things",
+	"permissions": [
+		"tabs"
+	],
+	"icons": {
+		"16": "images/icon-16.png",
+		"48": "images/icon-48.png",
+		"128": "images/icon-128.png"
+	},
+	"browser_action": {
+		"default_icon": {
+			"19": "images/button-19.png",
+			"38": "images/button-38.png"
+		},
+		"default_title": "Add page to Things"
+	},
+	"background": {
+		"scripts": [
+			"background.js"
+		]
+	}
+}
