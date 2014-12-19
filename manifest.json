@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
-	"name": "Add to Things",
-	"description": "Add any page to Things task manager",
+	"name": "__MSG_name__",
+	"description": "__MSG_desc__",
 	"version": "1.0.0",
 	"homepage_url": "https://github.com/pepelsbey/add-to-things",
 	"permissions": [
@@ -17,7 +17,7 @@
 			"19": "images/button-19.png",
 			"38": "images/button-38.png"
 		},
-		"default_title": "Add page to Things"
+		"default_title": "__MSG_title__"
 	},
 	"background": {
 		"scripts": [
