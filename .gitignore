@@ -1,4 +1,5 @@
 *.nex
+*.zip
 node_modules
 .DS_Store
 Desktop.ini
