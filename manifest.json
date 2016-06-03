@@ -17,9 +17,14 @@
 		},
 		"default_title": "__MSG_title__"
 	},
+	"permissions": [
+		"tabs",
+		"notifications",
+		"http://*/",
+		"https://*/"
+	],
 	"background": {
-		"scripts": [
-			"background.js"
-		]
+		"scripts": ["background.js"],
+		"persistent": false
 	}
 }
