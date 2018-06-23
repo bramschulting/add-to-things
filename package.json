@@ -3,10 +3,10 @@
   "description": "Adds any page to Things task manager",
   "private": true,
   "dependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-zip": "^4.0.0"
   },
   "scripts": {
-    "pack": "gulp"
+    "start": "gulp"
   }
 }
