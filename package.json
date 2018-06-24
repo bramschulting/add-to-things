@@ -2,11 +2,10 @@
   "name": "add-to-things",
   "description": "Adds any page to Things task manager",
   "private": true,
-  "dependencies": {
-    "gulp": "^4.0.0",
-    "gulp-zip": "^4.0.0"
+  "devDependencies": {
+    "bestzip": "^1.1.4"
   },
   "scripts": {
-    "start": "gulp"
+    "start": "bestzip add-to-things.zip _locales images background.js manifest.json"
   }
 }
