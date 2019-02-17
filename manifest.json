@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "__MSG_name__",
 	"description": "__MSG_desc__",
-	"version": "1.4.0",
+	"version": "1.4.1",
 	"homepage_url": "https://github.com/pepelsbey/add-to-things",
 	"default_locale": "en",
 	"icons": {
@@ -11,10 +11,7 @@
 		"128": "images/icon-128.png"
 	},
 	"browser_action": {
-		"default_icon": {
-			"19": "images/button-19.png",
-			"38": "images/button-38.png"
-		},
+		"default_icon": "images/icon-128.png",
 		"default_title": "__MSG_title__"
 	},
 	"permissions": [
