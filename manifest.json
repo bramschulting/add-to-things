@@ -14,9 +14,7 @@
 		"default_icon": "images/icon-128.png",
 		"default_title": "__MSG_title__"
 	},
-	"permissions": [
-		"activeTab"
-	],
+	"permissions": "activeTab",
 	"background": {
 		"scripts": ["background.js"],
 		"persistent": false
