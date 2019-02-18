@@ -15,9 +15,7 @@
 		"default_title": "__MSG_title__"
 	},
 	"permissions": [
-		"tabs",
-		"http://*/",
-		"https://*/"
+		"activeTab"
 	],
 	"background": {
 		"scripts": ["background.js"],
