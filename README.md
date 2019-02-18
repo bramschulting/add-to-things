@@ -1,12 +1,20 @@
 # <img src="images/icon-64.png" width="32" height="32" align="baseline" alt="Add to Things logo"> Add to Things
 
-Adds currently opened page to [Things](http://culturedcode.com/things/) task manager for macOS. Page title goes to task title, URL and selected text both go to notes. Available for [Chrome](https://chrome.google.com/webstore/detail/add-to-things/bfbgliglkhckblibeiojndpncmahbmpo), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/add-2-things/) and [Opera](https://addons.opera.com/en/extensions/details/add-to-things/).
+Adds currently opened page to [Things](http://culturedcode.com/things/) task manager for macOS. Page title goes to task title, URL and selected text both go to notes. 
 
-![Add to Things in Chrome](pictures/chrome.png)
+Compatible with Dark Mode and dark themes.
 
-![Add to Things in Firefox](pictures/firefox.png)
+![Add to Things in Chrome (Dark Mode)](pictures/chrome-dark.png)
 
-![Add to Things in Opera](pictures/opera.png)
+
+<p align="center">
+  <img width="460" height="300" src="pictures/chrome-dark.png" alt="Add to Things in Chrome (Dark Mode)">
+</p>
+
+![Add to Things in Chrome (Light Mode)](pictures/chrome-light.png)
+<p align="center">
+  <img width="460" height="300" src="pictures/chrome-light.png" alt="Add to Things in Chrome (Light Mode)">
+</p>
 
 ---
-Licensed under MIT License
+Licensed under MIT License. Forked from [pepelsbey](https://github.com/pepelsbey/add-to-things/).
