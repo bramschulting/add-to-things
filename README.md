@@ -6,15 +6,7 @@ Compatible with Dark Mode and dark themes.
 
 ![Add to Things in Chrome (Dark Mode)](pictures/chrome-dark.png)
 
-
-<p align="center">
-  <img width="460" height="300" src="pictures/chrome-dark.png" alt="Add to Things in Chrome (Dark Mode)">
-</p>
-
 ![Add to Things in Chrome (Light Mode)](pictures/chrome-light.png)
-<p align="center">
-  <img width="460" height="300" src="pictures/chrome-light.png" alt="Add to Things in Chrome (Light Mode)">
-</p>
 
 ---
 Licensed under MIT License. Forked from [pepelsbey](https://github.com/pepelsbey/add-to-things/).
