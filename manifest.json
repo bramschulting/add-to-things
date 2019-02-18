@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "__MSG_name__",
 	"description": "__MSG_desc__",
-	"version": "3.0.0",
+	"version": "3.0.1",
 	"homepage_url": "https://github.com/kristofferR/add-to-things-3",
 	"default_locale": "en",
 	"icons": {
